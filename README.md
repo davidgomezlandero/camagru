@@ -6,11 +6,11 @@ First web application project in the Outer Core of École 42.
 ## Extra
 
 -deployment: 
- - https://datatracker.ietf.org/doc/html/rfc1459
- - https://datatracker.ietf.org/doc/html/rfc1459
+ - vercel.com
+ - heroku.com
 
 -test:
- - https://datatracker.ietf.org/doc/html/rfc1459
- - https://datatracker.ietf.org/doc/html/rfc1459
+ - cucumber.io
+ - vitest.dev
 
 ## Path to develop this project
