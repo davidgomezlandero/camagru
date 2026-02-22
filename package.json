@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "camagru",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -13,9 +13,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "typescript": "^5.9.3"
   },
   "devDependencies": {
+	"typescript": "^5.9.3",
     "@eslint/js": "^10.0.1",
     "eslint": "^10.0.0",
     "globals": "^17.3.0",
