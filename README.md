@@ -1,4 +1,4 @@
-# Camagru
+# Camagru (In progress)
 
 Camagru is the first web application project of the Outer Core at École 42. This version is being developed as a **production-oriented, backend-focused application**, with strong emphasis on architecture, scalability, and infrastructure design.
 
