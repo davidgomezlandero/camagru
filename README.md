@@ -35,3 +35,6 @@ Detailed architectural decisions, roadmap phases, and technical explanations wil
 ### Author
 
 Developed as part of the École 42 curriculum, with a strong focus on backend engineering, production-oriented architecture, and long-term professional growth.
+
+### Notas
+- mirar redis valkey, sonarqube, elastickibana(APM), darklang(bichear), pretier y format.
